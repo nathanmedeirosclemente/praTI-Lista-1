@@ -44,6 +44,7 @@ node "caminho/para/seu/arquivo/exe - 01.js"
 ```
 
 Troque `ex01.js` pelo nome do arquivo que quiser testar.
+> *Há um easteregg em um dos exercícios. Considere um extra.*
 
 ## Dependências
 
